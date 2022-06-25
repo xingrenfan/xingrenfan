@@ -1,4 +1,7 @@
 # Hey, coder! 
+## Description
+In broken English,making a crappy description.
+
 ## Content Me
 
 <a href="https://github.com/xingrenfan/github-readme-stats" title="Go to Source">
